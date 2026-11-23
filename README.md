@@ -27,4 +27,10 @@ Welcome to my GitHub profile!
 - Improve my programming skills.
 - Develop professional IT skills.
 
+## 🌸 My Personal Portfolio
+
+Explore my portfolio website:
+
+[Visit My Portfolio](https://madushika.github.io/my-first-website/)
+
 Thanks for visiting my profile!
